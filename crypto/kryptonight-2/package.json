@@ -1,0 +1,11 @@
+{
+  "name": "kryptonight-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hash.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cryptonight-hashing": "^1.0.0"
+  }
+}
