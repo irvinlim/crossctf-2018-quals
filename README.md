@@ -1,7 +1,7 @@
-# CrossCTF 2018 Qualifiers
+# [CrossCTF 2018](https://crossctf.github.io/) Qualifiers
 
 * Team name: CrossCTF{Gh057_in_t3h_5he11}
-* Position: 10th (out of 45)
+* Position: 9th (out of 45)
 * Points: 5004
 
 ## Team
