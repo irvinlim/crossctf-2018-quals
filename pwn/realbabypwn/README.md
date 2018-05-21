@@ -99,7 +99,7 @@ cat /home/realbabypwnuser/flag
 CrossCTF{It3r4t1ve_0ver_R3curs1v3}
 ```
 
-Even though this was the easiest pwn challenge in the CTF, we're not discouraged but extremely excited to have learnt new techniques to bypass various protection mechanisms!
+Even though this was the easiest pwn challenge in the CTF but the only one we were able to complete (while taking such a long time nonetheless), we're not discouraged but instead extremely excited to have learnt new techniques to bypass various protection mechanisms!
 
 ## Tips
 
